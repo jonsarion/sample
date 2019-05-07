@@ -24,7 +24,7 @@ public class AuthenticationController {
 		Employee emp;
 		
 		emp = employeeManager.testEmployee();
-		System.out.println(emp + " hello");
+		System.out.println(emp + " hello2");
 	return emp;
 	}
 }
